@@ -1,6 +1,6 @@
-# ResearchLens
+# DocumentLens
 
-ResearchLens is a local web app for asking questions about research papers. It extracts text from PDFs, splits it into page-aware passages, finds relevant passages with semantic search, and uses Gemini to write an answer with document and page citations.
+DocumentLens is a local web app for asking questions about research papers. It extracts text from PDFs, splits it into page-aware passages, finds relevant passages with semantic search, and uses Gemini to write an answer with document and page citations.
 
 ## Requirements
 
